@@ -1,0 +1,218 @@
+﻿//VICIDIEM EXAM
+::Bad calls:: You get a call and ask for the location first. They tell you they are at Canyon View Crossing. You’re about to ask for their last name and the call drops. How do you proceed? {
+=Change location name to ---None/Ghost Calls/ N/A Tickets Go Here- , Click on +Add, type in “none” to each field, push save then either click on “already exists” or “View this Subscriber’s Issues”. Create a “none ticket” under Tech support- No answer or Bad connection. Notate call dropped before getting name or call back number then set ticket to resolved.
+~Keep Canyon View Crossing as the location, then either search for “none” for existing “none accounts” or Click on +Add, type in “none” to each field, push save then either click on “already exists” or “View this Subscriber’s Issues”. Create a “none ticket” under Tech supportNo answer or Bad connection. Notate call dropped before getting name or call back number then set ticket to resolved.
+~Copy and Past the phone number in the bottom center of your tracker screen, paste it into your Jitsi and dial the number back. If they answer, continue troubleshooting. If they do not answer, leave a voicemail & create a “none ticket” under Canyon View Crossing/ All Vicidiem Issues/ All Vicidiem Issues. Set ticket to resolved.
+~Push cancel to return to the Subscriber page to wait for the next call.
+}
+
+::Status:: You are almost done with the troubleshooting DT for cannot connect. The customer still has no connection, but they tell you they have to end the call right now because they have to leave. How do you proceed? {
+=Explain to the customer you will be escalating the ticket even though it is not completely through troubleshooting. Tell them they can call back at a later time to finish up the troubleshooting to add to the escalated ticket or wait for T2 to contact them. Escalate the ticket.
+~Explain to the customer that you’re almost through troubleshooting and will need them to call back when they are ready to finish the troubleshooting so we can either resolve the problem to send it up to our advanced technicians to address. Give the customer the ticket number. Set ticket to pending.
+~Explain the need to finish troubleshooting and ask the customer to stay on the phone until the DT is complete.
+~Explain to the customer that you be setting their ticket to ‘resolved’ and they can call back in at a later time to finish up the troubleshooting to either resolve the problem or send it up to our advanced technicians to address. Give the customer the ticket number. Set ticket to resolved.
+}
+
+::DT:: What are the main problems Vicidiem provides troubleshooting for? {
+=Fiber Internet, Phone, Television, Router support
+~Fixed wireless Internet, Router support, Social Media
+~Fiber Internet, Router support
+~Fixed wireless Internet, Phone, Television, Router support
+}
+
+::DT:: A resident calls in asking for help. Their remote control for their TV is on with new batteries but it will not let them push the number keys to choose the channel. They are only able to use the up/down arrows. How do you proceed? {
+=Ask which location they are at, their name and search for account in tracker. Either pull up account or create account if there isn’t an existing one already. Begin a ticket under All Vicidiem Issues, pull up the property information sheet and start clicking through the DT while taking notes. The DT will eventually ask if the caller is calling about Internet or Phone; choose internet and proceed. The DT will then ask what the issue is, and one of the options is Television Issues. You’ll choose Television issues and follow the DT.
+~Ask which location they are at, their name and search for account in tracker. Either pull up account or create account if there isn’t an existing one already. Create a ticket under Tech Support/ Wrong number and notate that the caller was trying to reach their television provider. Explain to the caller they have reached their internet tech support office and they should probably ask their property manager for the phone number for television support.
+~Instead of choosing their location, choose ---None/Ghost Calls/ N/A Tickets Go Here- , create a none ticket under Tech Support/ Wrong number. Explain to the caller they have reached their internet tech support office and refer them to their property manager.
+~Ask which location they are at, their name and search for account in tracker. Either pull up account or create account if there isn’t an existing one already. Begin a ticket under All Vicidiem Issues, pull up the property information sheet and start clicking through the DT while taking notes. Ask your supervisor for permission to notate “DT does not apply” and notate caller’s name, number, location and issue and then refer them to their property management to get the correct number.
+}
+
+::Location:: What is the address for the Villas at Auburn? {
+=205 10th St. NE Suite 101, Auburn, WA 98002
+~745 Fine Dr, Salt Lake City, UT 84115
+~2790 Commons Blvd, Heber City, UT 84032
+~1386 S 400 W, Orem, UT 84058
+}
+
+::Speeds:: What are the internet speeds provided for residents of District North? Where would you locate this? {
+=Up to 1 Gb (Found in spreadsheet and expandables for that location)
+~15 mbps download X 3 mbps upload (Found on website and spreadsheet)
+~Up to 500 Mb (Found in spreadsheet)
+~Up to 1 Kb (Found in spreadsheet, expandables and website)
+}
+
+::Routers:: Would a resident of Portland on the Park need to purchase their own router or is there a router provided? {
+=A router is provided
+~They would need to purchase their own
+}
+
+::Phone:: Do the residents of Claradon Village have tv and phone provided by the property? {
+=They get Directtv and can get phone services upon request
+~They get Directtv and there are no phone services provided, instead Vonage is recommended.
+~They get Dish which they will have to call directly and can get phone services upon request
+~They do not get tv but can get phone services upon request
+}
+
+::Portal:: What is the portal website and code we need to provide to residents of Reserve at Seatac? {
+=vicidiemportal.com & RWR5
+~vicidiemportal.com & U9XK
+~There is no portal; refer them to property manager for billing issues
+~ras.vicidiemportal.com & RAS0
+}
+
+::Status:: In the middle of a call, the resident of West Station asks for the property management’s number. Do we have that info? Do we give out that info? If so, how would we find it and what is the number? {
+=We do have the info. It is in the spreadsheet & can be given out. 801.203.0660
+~We do have the info. It is on the vicidiem website under contact us & can be given out. 877.687.9400
+~We do not have that info but we can give them the Vicidiem Location Dispatch number found in expandables. 801.487.9400
+~We do have the info. It is on the spreadsheet and expandables. We are not able to give out that information but we can refer them to the property management’s office.
+}
+
+::Sales:: A resident of Boulder Canyon just moved in and is calling to find out how to get connected. Would he be provided with a router or would he need to use his own? Does he need to schedule installation? How does the connection in this location work? {
+=Routers are not provided by this property; he will need to provide his own if he would like wifi. No installation required; He just needs to plug his computer or router into the 2 bottom data jacks located on the kitchen counter.
+~Routers are not provided by this property; he will need to provide his own. No installation required; He just needs to plug his router or computer into the PoE data port found in in the kitchen.
+~The property provides a shared network so he does not need his own router. No install required, all the cabling runs through the walls to the jacks. There are 2 live data jacks located in the living room by the TV to plug his computers/ devices into.
+~Routers are provided by this property or he can use his own. No install required. The router can be plugged into the media box in the laundry room- port #8.
+}
+
+::Location:: A vicidiem customer needs to have an account in order to connect to the internet. True or False or Depends on the location {
+=Depends on location; If the property has portal access & a registration code, they will need to be contacted by a technician for activation after signing up. If they do not have portal access, there is no need for the resident to sign up or create an account- they just need to connect their device.
+~False; All properties internet is always connected. Customers do not need to sign up, they just need to connect their device.
+~True; Customers must create an account with the property management first then they are given access to their portal where they can create an account. Until that account is created, they are until to connect to the internet.
+}
+
+::Sales:: A resident of Monteval just moved in today. They were told to call this number to sign up and get connected. Once you’ve retrieved all of their information needed and made an account in tracker for them, where do you go from there? {
+=Treat all new residents or move-ins as cannot connect calls.
+~Start following the DT, notating as you go. Eventually it will ask if this is for an existing account or a new account.
+~Refer them to billing to sign up; we only troubleshoot connection from this office.
+~Add their name to the property location spreadsheet, along with their phone number, email address, router brand & MAC address. Once that is complete, they should be able to connect.
+}
+
+::Connection:: A resident calls in experiencing slow speeds. What can you tell them off the top of your head about slow speeds at any vicidiem property? {
+=The majority of the time with slow speeds with fiber, the problem is directly related to the router.
+~The majority of the time with slow speeds, it could be related to a poor signal from the tower, aged or glitches in the cabling, devices needing rebooted or router settings.
+}
+
+::Routers:: Does Vicidiem provide router support? {
+=Yes but Only ReadyNet; all others refer to manufacturer
+~Yes but Only D-link, Belkin, ReadyNet; all others refer to manufacturer
+~Depends on the location
+~Yes- All brands; never refer to manufacturer; escalate if all steps exhausted
+}
+
+::Routers:: A resident has a readynet router and has pushed the reset button. What is the default SSID and security passphrase? {
+=Each router is different. Resident would need to look at label on the bottom of their router.
+~SSID is ReadyNetAC; Passphrase is ‘password’
+~SSID is AC1200M; Passphrase is ‘admin’
+~Would refer them to the router manufacturer
+~SSID WRT300N-D6; Passphrase is pz938qd6
+}
+
+::Routers:: A new resident of Avalon Senior Apartments brought their own “wifi box” with them. It’s a Netgear CM600. Would this work for the resident and would we support it if it malfunctioned? {
+=No. It is a cable modem. Would not work with fiber internet. Not supported by us- would refer to manufacturer.
+~Yes. Residents provide their own routers. Not supported by us- would refer to manufacturer.
+~No. It’s a fixed wireless router. Would not work with fiber internet. Not supported by uswould refer to manufacturer.
+~Yes. Residents provide their own routers. We would support initial setup of router and general help but would refer to manufacturer for bigger issues.
+}
+
+::Location:: A resident calls in and doesn’t remember the name of her apartment complex but says it’s on 2700 North in Pleasant View Utah. What is her property? {
+=The Cove at Pleasant View
+~Oquirrh Hills
+~Woodruff
+~Legacy Crossing
+}
+
+::DT:: A resident calls in and would like the number for her TV provider. She lives in Draper Village. What phone number would you give her? {
+=(801) 978-0022
+~(877) 687-9400
+~(801)727-0500
+~We do not have a phone number for television support; they would need to speak with the property management.
+}
+
+::Move ins:: A resident just moved into Midtown 360 and needs to know where to plug the router into. How would you explain where to place her router? {
+=There is a media box inside a big metal cover either in the hallway or closet. There is an RJ45 end on it and it usually comes into top of the media box through a conduit. Plug router into the feed.
+~There is a media box in the laundry room. Plug into the data port.
+~In the living room, there is a blue data port. Plug directly into that.
+~I don’t know man! What do you want from me?!
+}
+
+::Media box:: Does a media box provide wifi? {
+=No
+~Yes
+}
+
+::Media box:: The jack #8 on the media box is always the data port for internet. {
+=False- depends on location
+~True- always #8
+}
+
+::Media box:: What are the other jacks for on the media box? {
+=Every jack is associated with the jacks in each unit or corresponds with the phone.
+~The other jacks are for internet as well but only for computers & devices/ no routers.
+~One is for the tv, one is for the phone, one is for internet, the rest are for personal devices such as flat irons, microwaves, clocks or gaming consoles
+~The one is internet and the rest are for whatever you need them for
+}
+
+::Media box:: Every property for Vicidiem has a media box. True or False? {
+=False; some locations have live jacks instead.
+~True; every property has a media box- the location of the media box could be in different areas.
+}
+
+::Sales:: A resident calls in to upgrade to a higher speed. What DT do you follow? {
+=All Vicidiem Issues> All Vicidiem Issues> Slow speeds> Verify she is getting proper speeds first then explain we don’t offer higher speeds & the speeds should be satisfactory.
+~All Vicidiem Issues> All Vicidiem Issues>Other non connection issues
+~Tech support> Service Not Listed> escalate to billing
+~Tech support> Transfer> transfer to billing
+}
+
+::Slow speeds:: A resident of Rivulet calls in experiencing slow speeds. They have purchased their own router. Would you need to bypass to verify the issue is on our end? {
+=No; but we do need to hardwire into router for accurate results.
+~Yes; if it is a problem on our end, we will send a tech free of charge but if not, they will be paying a truck roll fee.
+}
+
+::Sales:: A man calls in wanting to know if he can get fiber internet installed at his residential address. What DT do you follow? {
+=Tech support> Wrong number; explain Vicidiem provides services to properties with multi dwelling units like condos, apartment complexes, and elderly communities.
+~Tech support> Transfer; transfer to billing/ sales
+~All Vicidiem Issues> All Vicidiem Issues> Other; Document name, address, email, and what they are interested in getting> escalate
+~All Vicidiem Issues> All Vicidiem Issues> Internet; eventually it will give you a number for sales to cold transfer customer.
+}
+
+::Speeds:: What could be the cause of slow speeds for vicidiem residents? Select all that apply.{
+=Router needing a firmware update
+=Router needing a reboot
+=Too many devices connected to & using the internet at the same time
+=Maxing out the bandwidth
+=Device issues
+~Data is used up; being throttled
+~PoE needs powercycled
+~Using apple devices
+~Low battery on device
+~Radio is getting a poor signal from the AP
+}
+
+::Contacts:: What is the address for the Vicidiem Inc business office? {
+=2735 East Parleys Way, Suite 201; Salt Lake City UT 84109
+~730 E 950 S; Orem UT 84097
+~97 N Main St; Cedar City UT 84720
+~555 State St.; Orem UT 84058
+}
+
+::DT:: A resident is calling to check on the status of his original escalated ticket from 5 days ago. What DT do you follow? {
+=All Vicidiem Issues> All Vicidiem Issues> Other non connection issues
+~All Vicidiem Issues> All Vicidiem Issues> Checking on escalation
+~Tech support> Trying to reach Tier 2
+~All Vicidiem Issues> All Vicidiem Issues> Can’t connect
+}
+
+::Router:: A resident calls in with router issues. They have a managed readynet router. What DT do you follow? {
+=All Vicidiem Issues> Router Support
+~All Vicidiem Issues> All Vicidiem Issues> Can’t connect
+~All Vicidiem Issues> All Vicidiem Issues> Other non connection issues
+~All Vicidiem Issues> Billing> Managed router support
+}
+
+::Router:: What other company does Serverplus provide support to that is actually referenced to by a link in the managed router support DT? {
+=ReadyNet
+~Applied Computer Technologies
+~RenterNet
+~GetWireless
+}
