@@ -1,4 +1,12 @@
 //VICIDIEM EXAM
+
+//github test
+::Question Title:: The Question? {
+	=Correct Answer
+	~Incorrect Answer
+	~Incorrect Answer
+}
+
 ::Bad calls:: You get a call and ask for the location first. They tell you they are at Canyon View Crossing. You’re about to ask for their last name and the call drops. How do you proceed? {
 =Change location name to ---None/Ghost Calls/ N/A Tickets Go Here- , Click on +Add, type in “none” to each field, push save then either click on “already exists” or “View this Subscriber’s Issues”. Create a “none ticket” under Tech support- No answer or Bad connection. Notate call dropped before getting name or call back number then set ticket to resolved.
 ~Keep Canyon View Crossing as the location, then either search for “none” for existing “none accounts” or Click on +Add, type in “none” to each field, push save then either click on “already exists” or “View this Subscriber’s Issues”. Create a “none ticket” under Tech supportNo answer or Bad connection. Notate call dropped before getting name or call back number then set ticket to resolved.
